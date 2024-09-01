@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Veeramanikandan, an aspiring Java Full Stack Developer.
 
-<img align="right" width="370" height="290" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
+<img align="right" width="370" height="290" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
 - 🔭 Currently learning **Spring Boot** and **Hibernate**
