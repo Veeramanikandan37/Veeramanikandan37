@@ -1,4 +1,4 @@
-## Hi there! I'm Veeramanikand, an aspiring Java Full Stack Developer.
+## Hi there 👋 I'm Veeramanikandan, an aspiring Java Full Stack Developer.
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -6,12 +6,10 @@
 - 🌱 Passionate about exploring new technologies and applying them to create impactful solutions
 - 💻 Strong interest in **Data Structures & Algorithms**
 - 🎯 Aiming to contribute to a repository (or organization) where my code helps build great web experiences
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/veera-manikandan-7a975a247) 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/veera-manikandan-7a975a247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veera-manikandan-7a975a247" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/veeramanikandan37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Veeramanikandan37" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/manikandassgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manikandassgw" height="30" width="40" /></a>
 </p>
