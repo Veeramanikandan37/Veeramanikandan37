@@ -22,6 +22,6 @@
 
 ![GitHub status](https://github-readme-stats.vercel.app/api?username=Veeramanikandan37&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[[Leetcode Stats](https://leetcard.jacoblin.cool/Veeramanikandan37?theme=dark&font=Alice&ext=heatmap)](https://leetcode.com/u/Veeramanikandan37/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Veeramanikandan37?theme=dark&font=Alice&ext=heatmap)](https://leetcode.com/u/Veeramanikandan37/)
 
-[[github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeramanikandan37&bg_color=000000&color=ffffff&line=009936&point=bfbfbf&area=true&hide_border=true)](https://github.com/Veeramanikandan37/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Veeramanikandan37&bg_color=000000&color=ffffff&line=009936&point=bfbfbf&area=true&hide_border=true)](https://github.com/Veeramanikandan37/github-readme-activity-graph)
