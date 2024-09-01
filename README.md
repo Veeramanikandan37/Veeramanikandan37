@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Veeramanikandan, an aspiring Java Full Stack Developer.
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&psig=AOvVaw2pAJ67NI4WiWD6QyZ_3bLA&ust=1725303002857000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjC3Ne0oogDFQAAAAAdAAAAABAd)">
+
 
 - 🔭 Currently learning **Spring Boot** and **Hibernate**
 - 🌱 Passionate about exploring new technologies and applying them to create impactful solutions
